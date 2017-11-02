@@ -1,0 +1,15 @@
+{
+  "name": "Jan's portfolio",
+  "description": "Portfolio",
+  "type": "",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "jan moes",
+      "email": "janmoes96@live.nl"
+    }
+  ],
+  "require": {
+    "twig/twig": "~2.0"
+  }
+}
